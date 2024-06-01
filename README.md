@@ -99,7 +99,7 @@ RRC ; ACC се дели со 2
 
 **Develop by:**
 
-[Slavko Srebrenoski ](https://github.com/TrajceStudent)
+[Trajce Stefanoski ](https://github.com/TrajceStudent)
 
 
 **Subject**
